@@ -2,7 +2,7 @@
 #include <cstdint>
 
 namespace offsets {
-    constexpr std::uintptr_t StaticFindObject = 0x399830;
+    constexpr std::uintptr_t StaticFindObject = 0x39983B;
     constexpr std::uintptr_t ProcessEvent = 0x723B6;
     constexpr std::uintptr_t GameViewPort = 0xAE0;
     constexpr std::uintptr_t BlendMode = 0x169;
