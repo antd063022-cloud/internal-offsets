@@ -30,14 +30,14 @@ namespace offsets {
     constexpr std::uintptr_t bForceRefpose = 0xac1;
     constexpr std::uintptr_t bADSWhileNotOnGround = 0x5ad1;
     constexpr std::uintptr_t StartFloating_RVA = 0xe682542;
-    constexpr std::uintptr_t StopFloating_RVA = 0xe67e83e; 
+    constexpr std::uintptr_t StopFloating_RVA = 0xe67e83e;
     constexpr std::uintptr_t BeginHovering_RVA = 0xe67d266;
     constexpr std::uintptr_t EndHovering_RVA = 0xe67e8ea;
     constexpr std::uintptr_t TargetedFortPawn = 0x1840;
     constexpr std::uintptr_t ClipX = 0x30;
     constexpr std::uintptr_t ClipY = 0x34;
     constexpr std::uintptr_t LocalPlayers = 0x38;
-    constexpr std::uintptr_t timedialation = 0x68; 
+    constexpr std::uintptr_t timedialation = 0x68;
     constexpr std::uintptr_t bIgnoreTryToFireSlotCooldownRestriction = 0x18f1;
     constexpr std::uintptr_t ViewportClient_LocalPlayer = 0x78;
     constexpr std::uintptr_t World_ViewportClient = 0x78;
